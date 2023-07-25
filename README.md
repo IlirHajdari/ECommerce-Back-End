@@ -42,7 +42,10 @@ E-commerce back end project.
 
     Below you will find a demo of the project:
 
-https://github.com/IlirHajdari/ECommerce-Back-End/assets/19784799/cb39101e-6468-4aca-ac01-3ef19eb0b9e5
+
+https://github.com/IlirHajdari/ECommerce-Back-End/assets/19784799/5ba4e134-aaa2-478b-bba5-e672f807b3b3
+
+
 
 ## Contact
 
