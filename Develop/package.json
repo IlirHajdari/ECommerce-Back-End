@@ -5,9 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node Develop/server.js",
-    "watch": "nodemon Develop/server.js",
-    "seed": "node Develop/seeds/index.js"
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
   },
   "keywords": [],
   "author": "",
